@@ -1270,7 +1270,7 @@ a {
     content: "";
     height: 97%;
     width: 97%;
-    background: #eec60a;
+    background: rgb(223, 48, 48);
     right: 0px;
     bottom: 0px;
     z-index: 1;
