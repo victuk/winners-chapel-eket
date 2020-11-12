@@ -25,4 +25,5 @@ var x = setInterval(function() {
     clearInterval(x);
     document.getElementById("shilo-countdown").innerHTML = "Welcome to Shiloh 2020!";
   }
+  document.getElementById("countdown-picture").src = `images/SHILOH COUNTDOWN/${days} DAYS.jpg`;
 }, 1000);
