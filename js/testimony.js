@@ -9,7 +9,7 @@ submitButton.addEventListener('click', function() {
 
     event.preventDefault();
 
-    fetch("https://api.apispreadsheets.com/data/3503/", {
+    fetch("https://api.apispreadsheets.com/data/4320/", {
         method: "POST",
         body: JSON.stringify({"data": {"name":name,"email":email,"phone":phone,"testimony":testimony,"date":today}}),
     }).then(res =>{
