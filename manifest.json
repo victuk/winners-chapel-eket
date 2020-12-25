@@ -9,7 +9,19 @@
     "icons": [
       {
         "src": "./images/winners-chapel-logo/wclogoh.png",
-        "type": "image/png"
+        "type": "image/png", "sizes": "192x192"
+      },
+      {
+        "src": "./images/winners-chapel-logo/wclogoh.png",
+        "type": "image/png", "sizes": "120x120"
+      },
+      {
+        "src": "./images/winners-chapel-logo/wclogoh.png",
+        "type": "image/png", "sizes": "180x180"
+      },
+      {
+        "src": "./images/winners-chapel-logo/wclogoh.png",
+        "type": "image/png", "sizes": "512x512"
       }
     ]
   }
