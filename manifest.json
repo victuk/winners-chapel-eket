@@ -8,35 +8,35 @@
     "orientation": "portrait-primary",
     "icons": [
       {
-        "src": "images/winners-chapel-logo/wclogo.png",
+        "src": "./images/winners-chapel-logo/wclogoh.png",
         "type": "image/png", "sizes": "72x72"
       },
       {
-        "src": "images/winners-chapel-logo/wclogo.png",
+        "src": "./images/winners-chapel-logo/wclogoh.png",
         "type": "image/png", "sizes": "96x96"
       },
       {
-        "src": "images/winners-chapel-logo/wclogo.png",
+        "src": "./images/winners-chapel-logo/wclogoh.png",
         "type": "image/png","sizes": "128x128"
       },
       {
-        "src": "images/winners-chapel-logo/wclogo.png",
+        "src": "./images/winners-chapel-logo/wclogoh.png",
         "type": "image/png", "sizes": "144x144"
       },
       {
-        "src": "images/winners-chapel-logo/wclogo.png",
+        "src": "./images/winners-chapel-logo/wclogoh.png",
         "type": "image/png", "sizes": "152x152"
       },
       {
-        "src": "images/winners-chapel-logo/wclogo.png",
+        "src": "./images/winners-chapel-logo/wclogoh.png",
         "type": "image/png", "sizes": "192x192"
       },
       {
-        "src": "images/winners-chapel-logo/wclogo.png",
+        "src": "./images/winners-chapel-logo/wclogoh.png",
         "type": "image/png", "sizes": "384x384"
       },
       {
-        "src": "images/winners-chapel-logo/wclogo.png",
+        "src": "./images/winners-chapel-logo/wclogoh.png",
         "type": "image/png", "sizes": "512x512"
       }
     ]
