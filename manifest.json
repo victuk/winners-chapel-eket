@@ -1,0 +1,43 @@
+{
+    "name": "Winners Chapel Eket",
+    "short_name": "LFCEket",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "white",
+    "theme_color": "red",
+    "orientation": "portrait-primary",
+    "icons": [
+      {
+        "src": "/images/winners-chapel-logo/wclogo.png",
+        "type": "image/png", "sizes": "72x72"
+      },
+      {
+        "src": "/images/winners-chapel-logo/wclogo.png",
+        "type": "image/png", "sizes": "96x96"
+      },
+      {
+        "src": "/images/winners-chapel-logo/wclogo.png",
+        "type": "image/png","sizes": "128x128"
+      },
+      {
+        "src": "/images/winners-chapel-logo/wclogo.png",
+        "type": "image/png", "sizes": "144x144"
+      },
+      {
+        "src": "/images/winners-chapel-logo/wclogo.png",
+        "type": "image/png", "sizes": "152x152"
+      },
+      {
+        "src": "/images/icons/icon-192x192.png",
+        "type": "image/png", "sizes": "192x192"
+      },
+      {
+        "src": "/images/icons/icon-384x384.png",
+        "type": "image/png", "sizes": "384x384"
+      },
+      {
+        "src": "/images/icons/icon-512x512.png",
+        "type": "image/png", "sizes": "512x512"
+      }
+    ]
+  }
