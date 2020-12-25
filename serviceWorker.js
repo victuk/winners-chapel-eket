@@ -8,6 +8,7 @@ const assets = [
     "css",
     "js",
     "images",
+    "js/readmore-stuff.js",
     "/css/style.css"
   ]
   
